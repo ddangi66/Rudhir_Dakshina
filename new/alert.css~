@@ -1,0 +1,27 @@
+
+.panel
+{
+	padding:0.01em 16px;
+	margin-top:16px;
+	margin-bottom:16px;
+	margin-left:30%;
+}
+
+
+.panel:after,.panel:before
+{
+	content:"";
+	display:table;
+	clear:both;
+}
+
+
+.back
+{
+	color:white;
+	background-color:firebrick;
+}
+.round-lar
+{
+	border-radius:8px;
+}
