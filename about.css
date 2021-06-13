@@ -1,0 +1,104 @@
+
+h1
+{
+	margin-left:10px;
+	color:white;
+	margin-top:0px;
+	padding-bottom:8px;
+}
+
+.container
+{
+	background-color:firebrick;
+	margin-top:0px;
+	padding-top:10px;
+	margin-top:10px;
+}
+
+.para
+{
+	font-size:20px;
+	font-family:sans-serif;
+	word-spacing:2px;
+	letter-spacing:1px;
+	background-color:white;
+	opacity:0.5;
+}
+
+label
+{
+	font-size:20px;
+	color:red;
+}
+
+body
+{
+	background:url(about.png);
+	background-repeat:no-repeat;
+	background-size:1280px 800px;
+}
+
+.nav1
+{
+background:rgb(255,255,255);
+height:100px;
+width:99%;
+border:solid maroon 3px;
+padding-top:10px;
+margin-left:0px;
+}
+
+
+.lmenu
+{
+position:absolute;
+top:180px;
+width:300px;
+height:700px;
+border: solid maroon 2px;
+}
+
+.menu
+{
+float:right;
+list-style:none;
+margin-top:10px;
+margin-right:22%;
+}
+
+.menu li
+{
+display:inline-block;
+margin:10px 5px;
+}
+
+a
+{
+text-decoration:none;
+color:black;
+padding:7px 10px;
+font-family:sans-serif;
+letter-spacing:2px;
+border-color:firebrick;
+border-style:solid;
+border-width:1px;
+background-color:white;
+}
+
+a:hover
+{
+background:firebrick;
+transition:.1s;
+color:white;
+}
+
+.logo
+{
+float:left;
+margin-left:20px;
+/*postion fixed*/
+background-color:white;
+border-radius:30%;
+height:100px;
+}
+
